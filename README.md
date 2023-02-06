@@ -1,5 +1,5 @@
 # Bank-Network-Simulation-Using-Cisco-Packet-Tracer
-
+![Topology](Topology.png)
  A bankası İstanbul, Ankara ve İzmir olmak üzere 3 farklı şehirde şube açmayı planlamaktadır. Her şehirdeki şubeler 3 kattan oluşmaktadır. Bunlar; 
 - 1.Kat İnsan Kaynakları, Bütçe ve Muhasebe, İnsan Kaynakları ve Toplantı Odası.
 - 2.Kat Pazarlama ve Satış,Hukuk, Destek Hizmetleri ve Toplantı Odası.
