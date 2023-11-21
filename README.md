@@ -30,3 +30,4 @@
 - Şirket şubeleri arasındaki alt yapı bağlantısı statik route ile haberleştirildi.
 - Şirket içi ve şubeler arası telefon görüşmeleri için ip telefon kurulumu yapıldı.
 - Şirketin 2 adet ISP ile yedekli olucak şekilde statik ve dinamik olarak yönlendirmesi yapıldı.
+abecede
